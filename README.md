@@ -1,0 +1,1 @@
+# ```bash <(curl -s https://raw.githubusercontent.com/va3y/tsss/main/s.sh)```
